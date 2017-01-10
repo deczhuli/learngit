@@ -10,7 +10,7 @@ namespace LearnGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is master.");
+            Console.WriteLine("This is to test fetch.");
             Console.ReadLine();
         }
     }
