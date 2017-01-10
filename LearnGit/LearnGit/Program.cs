@@ -11,6 +11,7 @@ namespace LearnGit
         static void Main(string[] args)
         {
             Console.WriteLine("This is master.");
+            Console.WriteLine("To test merger.");
             Console.ReadLine();
         }
     }
